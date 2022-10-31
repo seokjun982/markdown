@@ -8,7 +8,7 @@ Name       | 오석준
 
 English | seok jun OH
 
-Age        | 25 
+Age        | 27 
 
 Birth Day  | 1996.05.09
 
