@@ -59,6 +59,12 @@ High School | Kyung shin High School |                  | 2012.02 | 2015.02 | gr
 병역        | 만기전역
 
 
+##서울상공회의소 자율형 IoT기반 Reality AI융합 전문가 교육과정 <small>(2022.12 ~ 2023.7)
+*자율형 IoT AI융합 교육
+ -소개
+ > C언어
+ > JAVA
+
 
 ## 공공데이터 청년인턴 <small>(2022.08 ~ 2022.11)</small>
 * 공공데이터 기업매칭 청년인턴
