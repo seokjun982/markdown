@@ -59,7 +59,7 @@ High School | Kyung shin High School |                  | 2012.02 | 2015.02 | gr
 병역        | 만기전역
 
 
-##서울상공회의소 자율형 IoT기반 Reality AI융합 전문가 교육과정 <small>(2022.12 ~ 2023.7)
+##서울상공회의소 자율형 IoT기반 Reality AI융합 전문가 교육과정 <small>(2022.12 ~ 2023.7)</small>
 *자율형 IoT AI융합 교육
  -소개
  > C언어
@@ -71,7 +71,8 @@ High School | Kyung shin High School |                  | 2012.02 | 2015.02 | gr
   -소개
   > 메뉴사전구축 및 구축메뉴판 이미지 검수
   > 메뉴판 수동매칭
-
+  > DB구축
+  > 데이터 전처리 및 분석
 
 
 ## 오픈소스 프로젝트 <small>(2019.03 ~ 2019.08)</small>
