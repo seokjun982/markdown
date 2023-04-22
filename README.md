@@ -34,7 +34,7 @@ Religion   | 없음
 
 Level       | School Name    | Major            | Start   | End     | Status    | 최종학력
 ------------|----------------|------------------|---------|---------|-----------|--------
-University  | Hallym University  | Computer Science | 2015.03 | 2021.06 | enrolled | 최종
+University  | Hallym University  | Computer Science | 2015.03 | 2021.06 | graduated | 최종
 High School | Kyung shin High School |                  | 2012.02 | 2015.02 | graduated |
 
 ### 보유 자격증
@@ -62,10 +62,11 @@ High School | Kyung shin High School |                  | 2012.02 | 2015.02 | gr
 병역        | 만기전역
 
 
-## 서울상공회의소 자율형 IoT기반 Reality AI융합 전문가 교육과정 <small>(2022.12 ~ 2023.7)
+### 서울상공회의소 자율형 IoT기반 Reality AI융합 전문가 교육과정 <small>(2022.12 ~ 2023.7)
 전문설계 소프트웨어 능력
 ----------------------------------------------------------
 언어(툴)             |     활용능력
+--------------------|-----------------------------------------------------------  
 C(STM32 Cube IDE)   |  ARM Cortex-M3/M4 기반 TIM 제어 및 DMA 기능 활용(옥상정원 프로젝트)
 C(Linux)            |  ARM Cortex-A9 기반 UDOO보드 커널 포팅, 디바이스 드라이버 개발
 C+(Linux)           |  오픈소스(ROS,OpenCR,OpenCV)기반 자율주행 로봇
