@@ -69,7 +69,7 @@ High School | Kyung shin High School |                  | 2012.02 | 2015.02 | gr
 --------------------|-----------------------------------------------------------  
 C(STM32 Cube IDE)   |  ARM Cortex-M3/M4 기반 TIM 제어 및 DMA 기능 활용(옥상정원 프로젝트)
 C(Linux)            |  ARM Cortex-A9 기반 UDOO보드 커널 포팅, 디바이스 드라이버 개발
-C+(Linux)           |  오픈소스(ROS,OpenCR,OpenCV)기반 자율주행 로봇
+C+(Linux)           |  오픈소스(ROS,OpenCR,OpenCV)기반 (자율주행 로봇)
 
 
 ## 공공데이터 청년인턴 <small>(2022.08 ~ 2022.11)</small>
