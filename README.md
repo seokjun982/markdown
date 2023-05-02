@@ -122,7 +122,9 @@ C+(Linux)           |  라즈베리파이(OpenCV)
   - 주요기능
   > *아두이노와 각종센서(RFID,ESP8266,Ultra Sonic,Buzzer,switch,LCD)를 통하여 운동량과 회원관리 서비를 구축한다 
   
-* Ros Turtlebot3 burger 자율주행 프로젝트
+* Ros Turtlebot3 burger 자율주행 프로젝트(ICT 융합 프로젝트 공모전)
+  개발 기간: 2023.02.09 ~ 2023.03.28
+  
   -소개
   > * 수행미션 : 다양한 환경에서 장애물 회피, 자동 주차, 차선인식 주행, 신호등 감지, 교차로 처리 및 차단바 인식 등의 기능을 통하여 자율주행을 목표로 한다.
   > * OpenCR, OpenCV, Raspberry pi3, Ros Kinetic 사용
@@ -131,6 +133,7 @@ C+(Linux)           |  라즈베리파이(OpenCV)
   > * 프로제트 기술서 
   [공모전 프로젝트 기술서20230328.docx.pdf](https://github.com/seokjun982/markdown/files/11369743/20230328.docx.pdf)
  * 옥상정원 프로젝트
+   개발 기간: 2023.03.31 ~ 2023.04.09
   -소개
   * CortexM4, RassberryPi, 안드로이드 를 이용한 옥상정원 Iot 서비스 구현
   ![roof](https://user-images.githubusercontent.com/54785186/235583878-82864b40-39a9-4cfe-b4af-c82239c4b259.png)
