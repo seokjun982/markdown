@@ -110,7 +110,7 @@ C+(Linux)           |  라즈베리파이(OpenCV)
   - 주요기능  
   > * 공데이터로 제공되는 다채널의 EEG, EOC, EMC 데이터에 근거하며 “Deep-Learning” 기술 및 최신 기술인 CNN 및 RNN/LSTM 등을 적용하여 개발하며 또한 오픈소스(Google Colab) Python 및 관련 라이브러리를 활용한다.
   > * 젯슨 나노보드를 이용하여 간단한 수면검사를 집에서도 실시 가능하다.
-  - ![중간발표 포스터]![poster jpg_1](https://user-images.githubusercontent.com/54785186/235578351-6fc01dd9-9ab1-414c-b6c9-7ac9f50a0422.jpg)
+  - [발표 포스터]![poster jpg_1](https://user-images.githubusercontent.com/54785186/235578351-6fc01dd9-9ab1-414c-b6c9-7ac9f50a0422.jpg)
 
 ---------------------------------------------------------------
 
