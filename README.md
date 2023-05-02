@@ -70,7 +70,7 @@ C(STM32 Cube IDE)   |  ARM Cortex-M3/M4 기반 TIM 제어 및 DMA 기능 활용(
 C(Linux)            |  ARM Cortex-A9 기반 UDOO보드 커널 포팅, 디바이스 드라이버 개발
 C+(Linux)           |  오픈소스(ROS,OpenCR,OpenCV)기반 (자율주행 로봇 프로젝트)
 C+(Arduino IDE)     |  아두이노(HealthCare Management 프로젝트) 
-C+(Linux)           |  라즈베리파이(OpenCV) (OpenCV)
+C+(Linux)           |  라즈베리파이(OpenCV)
 
 ## 공공데이터 청년인턴 <small>(2022.08 ~ 2022.11)</small>
 * 공공데이터 기업매칭 청년인턴
@@ -96,8 +96,8 @@ C+(Linux)           |  라즈베리파이(OpenCV) (OpenCV)
   > * 모바일을 통하여 정보를 실시간으로 알 수 있다.
 
 
-* 의료 데이터 분석
-> 빅데이터 캡스톤 디자인 (딥러닝을 활용한 수면 다원 검사 분석)
+* 빅데이터 캡스톤 디자인 (딥러닝을 활용한 수면 다원 검사 분석)
+> 의료 데이터 분석
 - 개발기간 : 2020.08.31 ~ 2020.11.30
   (https://github.com/jeonggunlee/SleepCapstone)
   - 소개  
