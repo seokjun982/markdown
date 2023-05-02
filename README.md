@@ -129,7 +129,7 @@ C+(Linux)           |  라즈베리파이(OpenCV)
   > * line tracing, 장애물 회피, Traffic Detected, Level Crossing, Parking
   > * OpenCR, OpenCV, Raspberry pi3, Ros Kinetic 사용
   > * 시스템 전체 구성도
-  [ROS](https://user-images.githubusercontent.com/54785186/235579361-ae405d1c-6425-4116-ba33-ff7dc8bcb15b.png)
+  ![ROS](https://user-images.githubusercontent.com/54785186/235579361-ae405d1c-6425-4116-ba33-ff7dc8bcb15b.png)
  * 옥상정원 프로젝트
   -소개
   > * CortexM4, RassberryPi, 안드로이드 를 이용한 옥상정원 Iot 서비스 구현
