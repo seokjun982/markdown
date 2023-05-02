@@ -133,7 +133,8 @@ C+(Linux)           |  라즈베리파이(OpenCV)
  * 옥상정원 프로젝트
   -소개
   * CortexM4, RassberryPi, 안드로이드 를 이용한 옥상정원 Iot 서비스 구현
-  > *  
+  ![roof](https://user-images.githubusercontent.com/54785186/235583878-82864b40-39a9-4cfe-b4af-c82239c4b259.png)
+ 
 
  
   
