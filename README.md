@@ -17,18 +17,6 @@ Email      | osj982@naver.com
 Mobile     | 010-4766-7866
 
 
-
-
-###### 신상정보
-
-Profile    | Content
------------|--------------------------------------
-Address    | 서울 강북구 삼양로27길 19
-Mobile     | 010-4766-7866
-Married    | 미혼
-Family     | 1남 1녀
-Blood type | RH+ A
-Religion   | 없음
   
 ###### 학력정보
 
